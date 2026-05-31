@@ -18,5 +18,5 @@ Repositório de acompanhamento do curso [FastAPI do Zero](https://fastapidozero.
 Instale as dependências:
 Ative o ambiente e inicie o servidor:
 Acesse a documentação interativa em: http://127.0.0.1:8000/docs
-🧪 Como executar os testes
+## 🧪 Como executar os testes
 pytest
